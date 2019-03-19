@@ -57,7 +57,7 @@ messsage UserProfile {
 
 然后可以构造出该用户的这类数据
 
-```
+```text
 author 周杰伦 2.5
 author 蔡依林 1.2
 author 五月天 3.4
