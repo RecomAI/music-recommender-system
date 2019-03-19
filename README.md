@@ -33,14 +33,13 @@ messsage UserProfile {
     repeated Pair tags; //用户的标签体系, 与正排对应
     repeated Pair authors; //用户的喜欢音乐人, 由于是多个, 所以是列表, 与正排对应
 }
-
 ```
 
 
 
 ### 埋点数据
 
-```json
+```text
 {
     'id' : '12412414', //音乐music id,
     'uid' : '2412125125', //用户id
