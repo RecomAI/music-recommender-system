@@ -39,7 +39,7 @@ messsage UserProfile {
 
 ### 埋点数据
 
-```text
+```javascript
 {
     'id' : '12412414', //音乐music id,
     'uid' : '2412125125', //用户id
